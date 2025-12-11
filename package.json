@@ -1,7 +1,7 @@
 {
   "name": "profile-map-app",
   "scripts": {
-    "start": "node server/index.js",
+    "start": "node server/server.js",
     "postinstall": "cd client && npm install && npm run build"
   }
 }
